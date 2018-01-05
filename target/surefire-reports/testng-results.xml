@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.jenkins.maventest.SmokeTest" duration-ms="8056" started-at="2018-01-05T14:58:15Z" finished-at="2018-01-05T14:58:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8056" started-at="2018-01-05T14:58:15Z" finished-at="2018-01-05T14:58:23Z">
+      <class name="com.jenkins.maventest.SmokeTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.jenkins.maventest.SmokeTest@59a6e353]" name="loginTest" duration-ms="8048" started-at="2018-01-05T15:58:15Z" finished-at="2018-01-05T15:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.jenkins.maventest.SmokeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.jenkins.maventest.SmokeTest -->
+</testng-results>
